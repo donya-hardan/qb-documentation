@@ -2,10 +2,14 @@ title: QuantumBasel Documentation
 description: QuantumBasel HPTC Platform for Quantum Computing and AI Documentation
 theme: just-the-docs
 
-url: https://qb-documentation.github.io
+url: https://qb-documentation.github.io/qb-documentation
 
 aux_links:
   Template Repository: https://github.com/donya-hardan/qb-documentation
 
 plugins:
   - jekyll-default-layout
+
+favicon_ico: "_site/assets/images/favicon-16x16.png"
+logo: "_site/assets/images/QB_Logo_2022_RGB.jpg"
+color_scheme: dark
