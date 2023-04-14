@@ -10,6 +10,6 @@ aux_links:
 plugins:
   - jekyll-default-layout
 
-favicon_ico: "_site/assets/images/favicon-16x16.png"
-logo: "_site/assets/images/QB_Logo_2022_RGB.jpg"
-color_scheme: dark
+favicon_ico: "images/favicon.ico"
+logo: "images/QB_Logo_2022_RGB.png"
+color_scheme: light
